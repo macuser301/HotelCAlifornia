@@ -1,0 +1,15 @@
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\bin\Debug\net6.0\EaglesSong.exe
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\bin\Debug\net6.0\EaglesSong.deps.json
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\bin\Debug\net6.0\EaglesSong.runtimeconfig.json
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\bin\Debug\net6.0\EaglesSong.dll
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\bin\Debug\net6.0\ref\EaglesSong.dll
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\bin\Debug\net6.0\EaglesSong.pdb
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\obj\Debug\net6.0\EaglesSong.csproj.AssemblyReference.cache
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\obj\Debug\net6.0\EaglesSong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\obj\Debug\net6.0\EaglesSong.AssemblyInfoInputs.cache
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\obj\Debug\net6.0\EaglesSong.AssemblyInfo.cs
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\obj\Debug\net6.0\EaglesSong.csproj.CoreCompileInputs.cache
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\obj\Debug\net6.0\EaglesSong.dll
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\obj\Debug\net6.0\ref\EaglesSong.dll
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\obj\Debug\net6.0\EaglesSong.pdb
+C:\Users\Robz PC\repos\HotelCalifornia\EaglesSong\obj\Debug\net6.0\EaglesSong.genruntimeconfig.cache
